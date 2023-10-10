@@ -7,9 +7,9 @@ Lien de la librairie:  https://github.com/Hazrody/Calendar.
 Lien du projet test: https://github.com/Hazrody/printCalendar
 
 ## Tester l'application:
- * Cloner les projets au même endroit
- * Faire des npm install dans les deux projet
- * Sur le projet test, lancer la commande:  node *server.js* afin d'éxecuter le serveur
+ * Cloner le projet test (printCalendar).
+ * Faire un npm install au niveau du projet.
+ * Lancer la commande:  node *server.js* afin d'éxecuter le serveur
  * Aller sur http://localhost:3000/.
 
 ## Documentation 
