@@ -2,7 +2,7 @@
   "name": "printcalendar",
   "version": "1.0.0",
   "dependencies": {
-    "calendar": "file:../Calendar",
+    "calendar": "github:Hazrody/Calendar#dev",
     "express": "^4.18.2"
   },
   "main": "public/printCalendar.mjs",
