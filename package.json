@@ -1,0 +1,16 @@
+{
+  "name": "printcalendar",
+  "version": "1.0.0",
+  "dependencies": {
+    "calendar": "file:../Calendar",
+    "express": "^4.18.2"
+  },
+  "main": "public/printCalendar.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
