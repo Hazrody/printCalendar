@@ -11,6 +11,7 @@ Lien du projet test: https://github.com/Hazrody/printCalendar
  * Faire un npm install au niveau du projet.
  * Lancer la commande:  node *server.js* afin d'éxecuter le serveur
  * Aller sur http://localhost:3000/.
+ * MAJ - Utiliser le dockerfile (bien spécifier le port 3000 dans les options, si ça fonctionne pas)
 
 ## Documentation 
 La documentation est générée avec *jsdoc*. Dans les projets ci-dessous elle se trouve dans le dossier *out*.
